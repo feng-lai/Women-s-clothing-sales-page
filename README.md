@@ -2,6 +2,9 @@
 
 Discover the latest trends in women's fashion at Globalmai - your premier online destination for stylish clothing and accessories. From everyday essentials to special occasion wear, we curate collections that blend quality, comfort, and contemporary style.
 
+🌍 Available in:  
+[日本語 (README-jp.md)](README-jp.md) | [العربية (README-ar.md)](README-ar.md) | [Español (README-es.md)](README-es.md) | [Português (README-pt.md)](README-pt.md)
+
 ## ✨ Key Features
 
 ### 🛍️ Comprehensive Collections
